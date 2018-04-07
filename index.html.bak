@@ -60,21 +60,27 @@ sitemap:
 							<article class="post featured">
 
 								<header class="major">
-									<h2><a href="#">Massively is a versatile Jekyll theme</a></h2>
+									<h2><a href="#">Someone let their domain lapse...</a></h2>
 
-									<p>With only a few edits, you can have a stunningly beautiful website <br />
-									nearly out of the box. Of course... you can always take it further <br />
-									and make it something even more amazing!</p>
-								</header>
+								<p>Another late night call and looking for something to keep me busy, I noticed (though it was likely announced at some previous point) that minorhockeyfan.ca was allowed to lapse.</p>
 
-								<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
+								<p>Well, I've decided to steal it and bring it back.  Email hosting can be reimplemented, for a price.</p>
 
-								<p>Regardless of your website's function, the homepage is what brings the user in.
-								If it's anything short of intriguing, captivating, or just plain cool, you're out of luck and you might deter some visitors.</p>
+								<p>I've decided to start my own rambling blog, mostly focused on the kids sports with the occasional foray into other aspects of life for the Moorehead clan.  Tonight's post will be a quick one and a bit of a rehash as I have no idea if I'm going to keep this host or format but it seems to work, at least for now.  </p>
 
-								<p>Your homepage must clearly describe what your site is about.	Having engaging content will in this manner enable you to offer and it will make your customers more inclined to purchase from you. Content is a way to position your organization in the correct place for your clients to discover you.</p>
+								<p>The last couple weeks have been a little crazy, Ben's Tyke 1 Eagles team won the Tri-County Minor Hockey League championship in mid-March with a sweep of the Milton Winterhawks.  The kids played a great series, especially with a come from behind victory in game two. It was great seeing them keep their heads up and fight back from a two goal deficit to bring the game home after some early missteps.</p>
 
-								<p>In this manner, content in itself is a standout amongst the best promoting apparatuses in your whole advertising toolbox! Rather than making your content around your promoting technique, it's limitlessly more productive to fabricate your showcasing around your content.</p>
+								<p>The final game of the series was a bit anti-climactic, the kids showed up in force and brought the championship home with an 8-0 victory.   Here's a quick look at the final moments, Ben was lucky enough to be on the ice and carrying the puck when that final buzzer sounded.</p>
+
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/2o8FB8Q0W1w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+								
+								<p>Things today are no less hectic than during hockey season.  While work has something to do with that, Ben and Lily's sporting and dance endeavors are keeping us on our toes.  Ben has decided that he wants to play lacrosse this year and is trying out with a number of his Eagle teammates for the Burlington Chiefs rep lacrosse team.  I didn't have the pleasure of playing lacrosse as a kid, but I have to say I'm enjoying every second of watching him.  A quick warning,  it's a little vicious.  Don't worry, Ben was fine - just a little slash to the bicep.</p>
+
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/gjNw2TdBgdo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+								<p>In the midst of all this Lily is preparing for her upcoming Tap, Jazz and Ballet recital, Ben has hockey clinics and Eagles tryouts coming up on the 16th and Oliver... Well, he's just being dragged from place to place with either his mini stick,  lacrosse stick or iPad in hand.  Thank the Lord the kid enjoys the life of a rink rat!</p>
+								
+								<span class="image main"><img src="{{ "/images/080418-champs.jpg" | absolute_url }}" alt="" /></span>
 
 							</article>
 
